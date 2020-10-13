@@ -1,0 +1,7 @@
+C:\Users\Julio Ibarra\source\repos\appclase\appclase\bin\Debug\appclase.exe.config
+C:\Users\Julio Ibarra\source\repos\appclase\appclase\bin\Debug\appclase.exe
+C:\Users\Julio Ibarra\source\repos\appclase\appclase\bin\Debug\appclase.pdb
+C:\Users\Julio Ibarra\source\repos\appclase\appclase\obj\Debug\appclase.csprojAssemblyReference.cache
+C:\Users\Julio Ibarra\source\repos\appclase\appclase\obj\Debug\appclase.csproj.CoreCompileInputs.cache
+C:\Users\Julio Ibarra\source\repos\appclase\appclase\obj\Debug\appclase.exe
+C:\Users\Julio Ibarra\source\repos\appclase\appclase\obj\Debug\appclase.pdb
